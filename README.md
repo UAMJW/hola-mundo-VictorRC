@@ -1,5 +1,5 @@
 ## *Bienvenido*
-#### Este es mi Hola Mundo realizado en el lenguaje PHP.
+#### Este es un programa que imprime "Hola Mundo" y fue realizado en el lenguaje PHP.
 #####Muchas gracias por visitarme. Te espero Pronto
 
 Programa | Lenguaje           | Versión
